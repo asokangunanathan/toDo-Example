@@ -2,6 +2,10 @@
 
 A simple TODO app, in the form of a Vue SPA.
 
+## Installation
+1) Download the code
+2) npm insall
+
 ## Run the project
 To start the app, run
 
@@ -61,21 +65,3 @@ The App also incorporates a few extra features, that were on the "nice to have" 
 
 ## TODO:
 
-From the list of requirements, I still have to:
-
- - [ ] Add a few more tests. Mostly integration, on TodoItem and RecycledTodoItem.
- - [ ] Improve JSDoc types.
-
-As the task is to create a relatively simple ToDo app, there are a few things I would improve/add on top: 
-
- - [ ] Add LocalStorage fallback for browsers that have it blocked (Safari sometimes does this).
- - [ ] Allow selecting multiple items at once
- - [ ] Add cross tab support
- - [ ] Improve design - its not the prettiest thing
- - [ ] Improve accessibility - have not focused on it at all
- - [ ] Add keyboard only navigation support
- - [ ] Categorizing and Filtering (Category, Date, Status, Content search)
- - [ ] Allow completing all visible items and vice versa. (would go well with above)
- - [ ] Integrate with an API for extended features. 
- - [ ] Could allow anonymous usage via LocalStorage and API integration for logged-in users.
- - [ ] Add offline support (PWA).

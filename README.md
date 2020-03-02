@@ -4,7 +4,7 @@ A simple TODO app, in the form of a Vue SPA.
 
 ## Installation
 1) Download the code
-2) npm insall
+2) npm install
 
 ## Run the project
 To start the app, run

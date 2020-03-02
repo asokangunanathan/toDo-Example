@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Add Items to ToDo List</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>3b124c1c-b955-4082-84fe-3f2f13cb995a</testCaseGuid>
+   <variable>
+      <defaultValue>'notFromData File'</defaultValue>
+      <description></description>
+      <id>2bc44bd7-82e1-4b5b-89ee-7af98140aa1b</id>
+      <masked>false</masked>
+      <name>toDoItem</name>
+   </variable>
+</TestCaseEntity>
